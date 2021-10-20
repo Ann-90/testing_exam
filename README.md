@@ -1,5 +1,8 @@
 # TESTING EXAM PROJECT
+TESTING EXAM
 
+This is the exam task. You should check bunch of tests with pytest lib:
+ 
 * Clone the project. For example:
 
 `git clone git@github.com:Ann-90/testing_exam.git`
