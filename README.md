@@ -1,7 +1,6 @@
 # TESTING EXAM PROJECT
-TESTING EXAM
 
-This is the exam task. You should check bunch of tests with pytest lib:
+This is the exam task from the "Testing" course. You should check bunch of tests with Pytest:
  
 * Clone the project. For example:
 
